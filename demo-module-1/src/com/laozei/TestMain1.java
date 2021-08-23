@@ -5,5 +5,8 @@ public class TestMain1 {
         System.out.println("hello word");
         System.out.println("ccc");
         System.out.println("test1");
+        for(int i = 0;i<10;i++){
+            System.out.println("Çë½ÐÎÒ´ó´óË§±Æ");
+        }
     }
 }
